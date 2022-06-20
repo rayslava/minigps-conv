@@ -1,0 +1,12 @@
+[package]
+name = "minigps-conv"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+gpx = "0.8.6"
+structopt = "0.3"
+thiserror = "1.0"
+log = "0.4"
+env_logger = "0.9"
+minigps = "0.1.1"
